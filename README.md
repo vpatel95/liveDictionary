@@ -14,3 +14,7 @@ copy a word to get its meaning
 ```
 1.  Copy the word whose meaning you want to check
 2.  A dialog box will appear with its minute in no time
+
+
+
+*Do report BUGS*
